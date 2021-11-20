@@ -1,3 +1,5 @@
+**Introduction**
+
 Sudoku is a popular number game. Sudoku is commonly seen in mobile phones, newspapers, magazines as this is played by many youngsters, kids and old age people. This is quiet challenging game which needs logic to be created properly.
 
 The standard version of Sudoku consists of a 9×9 square grid containing 81 cells. The grid is subdivided into nine 3×3 blocks. Some of the 81 cells are filled in with numbers from the set {1,2,3,4,5,6,7,8,9}.
@@ -20,7 +22,7 @@ Feature- User can input new values to play the game and will get the output.
 
 SWOT analysis is a strategic planning and strategic management technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats.
 
-![](RackMultipart20211120-4-v56xuc_html_cb7a02d7cf9342ae.jpg)
+![](RackMultipart20211120-4-p7086l_html_cb7a02d7cf9342ae.jpg)
 
 **4W and 1H**
 
@@ -44,12 +46,20 @@ How- It will build using very simple algorithm by taking inputs from user and gi
 
 ID Description
 
-HL1 Contain samples and it takes input from user.
+HL1 Contain samples and it takes input from user
 
-HL2 Print the output if solution exist.
+HL2 Print the output if solution exist
 
 **Low-Level Requirements**
 
 ID Description
 
-LL1
+LL1 Sample sudoku and User sudoku in main()
+
+LL2 Call to solveSudoku()
+
+LL3 Check Sudoku using safeSudoku() before solving
+
+LL4 solveSudoku() self call to fill the empty spaces
+
+LL5 Print the solution, if exist.
