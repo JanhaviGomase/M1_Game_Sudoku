@@ -1,1 +1,3 @@
-# M1_Game_Sudoku
+- Sudoku is a popular number game. 
+- Sudoku is commonly seen in mobile phones, newspapers, magazines as this is played by many youngsters, kids and old age people. 
+- This is quiet challenging game which needs logic to be created properly.
