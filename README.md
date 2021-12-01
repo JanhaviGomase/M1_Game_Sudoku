@@ -4,7 +4,7 @@
 
 ## Badges
 
-Cpp Ceck- [![cppcheck-action-test](https://github.com/JanhaviGomase/M1_Game_Sudoku/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/JanhaviGomase/M1_Game_Sudoku/actions/workflows/cppcheck.yml)
+Cpp Check- [![cppcheck-action-test](https://github.com/JanhaviGomase/M1_Game_Sudoku/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/JanhaviGomase/M1_Game_Sudoku/actions/workflows/cppcheck.yml)
 
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg)
